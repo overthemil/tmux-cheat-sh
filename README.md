@@ -12,7 +12,7 @@ https://github.com/overthemil/tmux-cheat-sh/assets/33297928/4e148b8a-d7e8-43f4-a
 Add the following to `~/.tmux.conf`
 
 ```tmux
-set -g @plugin 'overthemil/tmux-cheat-sh'
+set -g @plugin 'skrewby/tmux-cheat-sh'
 ```
 
 ## Usage
